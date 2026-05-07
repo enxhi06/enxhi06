@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Enxhi 👋
 
-<!--
-**enxhi06/enxhi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student who loves the creative side of the programming world :)
 
-Here are some ideas to get you started:
+## 🛠 What I'm learning right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Advanced C++ Programming
+* Data Structures and Algorithms
+* Git & GitHub Workflows
+* Web Development 
+* JavaScript
+* HTML & CSS
+
+## 🎯 What I'm working on
+
+* 🔭 Currently building and growing my GitHub profile
+* 🌱 Next up: Group codding projects 
+* 🤝 Looking to collaborate on creative coding projects
+
+## 📫 How to reach me
+
+* **Email:** jonuzienxhi@gmail.com
+* **LinkedIn:**www.linkedin.com/in/enxhi-jonuzi
+
+## ✨ A little more about me
+
+* 🎓 Enrolled at LaGuardia Community College (LGCC) / Incoming Hunter College student
+* 💬 Fun fact: My hobby is doing nails
