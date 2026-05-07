@@ -20,7 +20,7 @@ I am a Computer Science student who loves the creative side of the programming w
 ## 📫 How to reach me
 
 * **Email:** jonuzienxhi@gmail.com
-* **LinkedIn:**www.linkedin.com/in/enxhi-jonuzi
+* **LinkedIn:** www.linkedin.com/in/enxhi-jonuzi
 
 ## ✨ A little more about me
 
